@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiweimahh.thelocalcollaborative.com/sitemap.xml
